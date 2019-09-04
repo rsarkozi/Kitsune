@@ -9,3 +9,4 @@ More publications: https://waset.org/Publication/formex-algebra-adaptation-into-
 
 
 To install Kitsune copy the .ghpy files to the Grasshopper Component folder.
+More information: http://parametricfox.hu/
